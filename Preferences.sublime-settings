@@ -1,0 +1,35 @@
+{
+	"alwayshighlight_pattern": "foo|[　０-９Ａ-Ｚａ-ｚ]",
+	"auto_complete": true,
+	"auto_complete_with_fields": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"flatland_sidebar_tree_small": true,
+	"flatland_square_tabs": true,
+	"font_face": "Meiryo",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_bracket": true,
+	"itg_small_tags": true,
+	"line_ladding_top": 5,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_selection": true,
+	"match_tags": true,
+	"preview_on_click": true,
+	"remember_open_files": true,
+	"show_full_path": true,
+	"show_panel_on_build": true,
+	"smart_indent": true,
+	"tab_size": 1,
+	"theme": "itg.flat.dark.sublime-theme"
+}

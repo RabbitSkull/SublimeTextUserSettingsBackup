@@ -1,0 +1,12 @@
+{
+    "keys": ["ctrl+alt+n"],
+    "command": "export_html",
+    "args": {
+        "numbers": true,
+        "wrap": 900,
+        "browser_print": true,
+        "multi_select": true,
+        "color_scheme": "Packages/ExportHtml/ColorSchemes/Print-Color.tmTheme",
+        "style_gutter": false
+    }
+}
